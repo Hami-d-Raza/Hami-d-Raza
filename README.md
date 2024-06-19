@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Code with Python](https://github.com/Hami-d-Raza/Code-with-Python)
 
-- 💬 Ask me about **javascript, python**
+- 💬 Ask me about **Javascript, Python**
 
 - 📫 How to reach me **hamidraza9182@gmail.com**
 
