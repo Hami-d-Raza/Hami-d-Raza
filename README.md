@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamid Raza</h1>
-<h3 align="center">A passionate frontend developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.75c2f842863ae2df6b3ac2d0a4d63026?rik=KEuFjuU1P0qyDA&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hami-d-raza&label=Profile%20views&color=0e75b6&style=flat" alt="hami-d-raza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hami-d-raza" alt="hami-d-raza" /></a> </p>
 
 - 🔭 I’m currently working on [Code with Python](https://github.com/Hami-d-Raza/Code-with-Python)
 
