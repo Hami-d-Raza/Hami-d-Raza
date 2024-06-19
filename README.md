@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **javascript, python**
 
-- 📫 How to reach me **hamidraza9182@gmai.com**
+- 📫 How to reach me **hamidraza9182@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
