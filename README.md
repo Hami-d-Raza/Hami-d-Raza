@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hami-d-raza&label=Profile%20views&color=0e75b6&style=flat" alt="hami-d-raza" /> </p>
 
-- 🔭 I’m currently working on [Code with Python](https://github.com/Hami-d-Raza/Code-with-Python)
+<!-- - 🔭 I’m currently working on [Code with Python](https://github.com/Hami-d-Raza/Code-with-Python) -->
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Code with Python](https://github.com/Hami-d-Raza/Code-with-Python)
+<!-- - 👯 I’m looking to collaborate on [Code with Python](https://github.com/Hami-d-Raza/Code-with-Python) -->
 
-- 🤝 I’m looking for help with [Code with Python](https://github.com/Hami-d-Raza/Code-with-Python)
+<!-- - 🤝 I’m looking for help with [Code with Python](https://github.com/Hami-d-Raza/Code-with-Python) -->
 
 - 💬 Ask me about **Javascript, Python**
 
